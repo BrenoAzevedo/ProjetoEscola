@@ -18,7 +18,7 @@ public class Teste1Roteiro13 {
 		while (flag == false) {
 
 			int opcao = frontEnd
-					.lerInteiro("Bem Vindo ao Sistema de Controle Escolar - SCE \n"
+					.lerInteiro("Seja Bem Vindo ao Sistema de Controle Escolar - SCE \n"
 							+ "\nPara melhor utilizar o nosso SCE fique atento as informações solicitadas\n"
 							+ "\n(1) Cadastrar"
 							+ "\n(2) Pesquisar"
